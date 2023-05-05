@@ -14,6 +14,7 @@ import AlertComp from "./components/AlertComp";
 import SnackBarComp from "./components/SnackBarComp";
 import ImageListComp from "./components/ImageListComp";
 import DataGridComp from "./components/DataGridComp";
+import ThemetestComp from "./components/ThemetestComp";
 
 function App() {
   return (
@@ -31,7 +32,8 @@ function App() {
       {/* <AlertComp /> */}
       {/* <SnackBarComp /> */}
       {/* <ImageListComp /> */}
-      <DataGridComp />
+      {/* <DataGridComp /> */}
+      <ThemetestComp />
     </>
   );
 }
